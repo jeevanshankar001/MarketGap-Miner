@@ -109,46 +109,44 @@ MarketGap-Miner/
 
 ## ▶️ How to Run Locally
 
-### 1️⃣ Clone the repository
+ 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/jeevanshankar001/MarketGap-Miner.git
 cd MarketGap-Miner
 
-### 2️⃣ Install dependencies
+2️⃣ Install dependencies
 pip install -r requirements.txt
 
-### 3️⃣Run the Streamlit app
+3️⃣Run the Streamlit app
 streamlit run app/app.py
 
- Outputs
+## 📈 Outputs
 
-Ranked list of high-impact market opportunities
+- Ranked list of high-impact market opportunities  
+- Clustered customer pain points  
+- Interactive dashboard for decision-makers  
 
-Clustered customer pain points
+---
 
-Interactive dashboard for decision-makers
+## 🔮 Future Enhancements
 
- Future Enhancements
+- Use real-world datasets (G2, Trustpilot, Amazon)  
+- Add LLM-based review summarisation  
+- Implement time-series analysis for emerging trends  
+- Enable industry-specific market gap detection  
 
-Real-world datasets (G2, Trustpilot, Amazon)
+---
 
-LLM-based review summarisation
+## 🎓 Use Cases
 
-Time-series analysis for emerging trends
+- Product strategy & roadmap planning  
+- Business intelligence & analytics  
+- Entrepreneurship & innovation research  
+- Data Science & MBA portfolio projects  
 
-Industry-specific market gap detection
+---
 
- Use Cases
+## 👤 Author
 
-Product strategy & roadmap planning
-
-Business intelligence & analytics
-
-Entrepreneurship & innovation research
-
-Data Science & MBA portfolio project
-
-👤 Author
-
-Jeevan
-MBA (Entrepreneurship) | BSc (Hons) Data Science & Analytics
+**Jeevan**  
+MBA (Entrepreneurship) | BSc (Hons) Data Science & Analytics  
