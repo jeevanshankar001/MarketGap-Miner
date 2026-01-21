@@ -1,10 +1,10 @@
-# 📊 MarketGap Miner
+#  MarketGap Miner
 
 AI-driven analytics system that identifies **unmet market needs** by mining customer reviews using **NLP, sentiment analysis, and topic modeling**, and converts them into **actionable strategic insights**.
 
 ---
 
-## 🚀 Problem Statement
+##  Problem Statement
 
 Companies receive thousands of customer reviews across platforms, but struggle to convert this unstructured feedback into clear product, strategy, and innovation decisions.
 
@@ -16,13 +16,13 @@ Companies receive thousands of customer reviews across platforms, but struggle t
 
 ---
 
-## 🧠 Solution Overview
+##  Solution Overview
 
 This project combines **data science, AI, and business logic** to rank market opportunities using a custom **Market Gap Score** derived from customer feedback.
 
 ---
 
-## 🛠 Methodology
+##  Methodology
 
 1. **Data Ingestion**
    - CSV-based customer review data
@@ -45,7 +45,7 @@ Gap Score = Frequency × Sentiment Severity × Competitor Spread
 
 ---
 
-## 📈 Outputs
+##  Outputs
 
 - Ranked list of high-impact market opportunities  
 - Clustered customer pain points  
@@ -53,7 +53,7 @@ Gap Score = Frequency × Sentiment Severity × Competitor Spread
 
 ---
 
-## 🎓 Use Cases
+##  Use Cases
 
 - Product strategy & roadmap planning  
 - Business intelligence & analytics  
@@ -62,7 +62,7 @@ Gap Score = Frequency × Sentiment Severity × Competitor Spread
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - **Python**
 - **Pandas, NumPy**
@@ -74,7 +74,7 @@ Gap Score = Frequency × Sentiment Severity × Competitor Spread
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 MarketGap-Miner/
 │
